@@ -1,6 +1,6 @@
 # MediCenter_website
 
-Projeto de treino
+Projeto de treino do curso B7web
 
 Site usando apenas HTML e CSS.
 
